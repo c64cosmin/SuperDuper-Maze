@@ -1,0 +1,9 @@
+Maze game for LPC2148 ARM processor.
+This software was made to work on Embedded Artists - Student Board LPC2148.
+It works for a 8x8 LED matrix.
+
+It contains a maze game that includes 4 gates with 4 different games:
+-Racing game : Dan SOARE 
+-Space Invaders : Cosmin MUNTEANU
+-Tetris : Cosmin MUNTEANU
+-Snake : Dan SOARE
